@@ -1,0 +1,21 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "parser",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node index.js"
+  },
+  "keywords": [
+    "parse",
+    "hacker",
+    "news"
+  ],
+  "author": "Michal Buday",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "fs": "^0.0.1-security"
+  }
+}
